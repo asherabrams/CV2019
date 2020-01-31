@@ -2,7 +2,7 @@
 
 ASHER ABRAMS
 
-415-806-5407
+971-348-9999
 
 asher813@aol.com
 
@@ -35,29 +35,23 @@ EdgeLink
 Beaverton, Oregon
 Client:  Genesis Financial Solutions.  Create, manage, delete user accounts in Active Directory and Exchange.  Support PC, printer, and laptop corporate infrastructure.  Answer phones and monitor the Help Desk email for incoming requests. Triage tickets and assign to appropriate team.  Troubleshoot and resolve hardware and software issues, including password resets and user account creation.  Set up and manage phones in Cisco Unified CM Administration.  Image laptop and desktop computers with SCCM and Configuration Manager Console.  Troubleshoot remote computers using Remote Desktop and Dameware.  Work in virtual environment using VMware Horizon Client.  Workstation setup and configuration in Windows 7 and 10.  Data entry in TSYS.  Provisioning and deployment of desktop systems, and inventory management.  Trained and supervised junior technician in creating user accounts.
 
-
-Executive Assistant
-Borealis Exploration, Incorporated.  
-12/2017 - 6/2018
-North Plains, Oregon
-Provided daily support to CEO, including administrative duties and technical support.  Configured workstation, upgraded memory.  Provided user support for Windows phone and Surface tablet.  Installed switch upgrade in local network.  
-
-Service Desk
+Help Desk
 Tek Systems
 10/2017 - 11/2017
 Portland, Oregon
 Client:  Providence Health Services.   Call volume 40 calls per day.  Assisted users accessing online health records in Epic and Facets.  Identified user access problems.  Maintained HIPAA compliance and confidentiality.
- Help Desk Analyst
+ 
+Help Desk Analyst
 Triad Technology Group
 8/2017 - 10/2017
 Portland, Oregon
 Client: Kimpton Hotels. Record, classify, and route requests on ITSM Ticketing System. Update user access on Active Directory. Remote Desktop, Citrix VPN. Email and phone customer service, following up with users on status of requests.
 
-IT Help Desk Clerk
+IT Help Desk
 Insight Global
 3/2017 - 7/2017
 Portland, Oregon
-Telephone customer service for password resets, access issues, and troubleshooting. HP Service Manager, Windows Active Directory, Dameware remote desktop, Hogan mainframe. Telephone customer service with very high call volume, alphanumeric data entry, multi-tasking.
+Client:  US Bank.  Telephone customer service for password resets, access issues, and troubleshooting. HP ticketing system, Windows Active Directory, Dameware remote desktop, Hogan mainframe. Telephone customer service with call volume 50+ calls per day, alphanumeric data entry, multi-tasking.
 Skills: Help Desk & Desktop Support, Active Directory, Hogan (Banking program)
 
 Scan Operator
@@ -71,13 +65,12 @@ Go2IT
 8/2015 - 7/2016
 Portland, Oregon
 Provided technical support for commercial clients in Oregon and Washington. Performed software and hardware upgrades. Verified functionality and resolved technical issues for end users. Opened support tickets as needed. Followed up with users to ensure satisfaction.
-Skills: Customer Support, Troubleshooting, desktop support and network, Technical Support
 
 Scan operator
 Ricoh
 3/2014 - 6/2014
 Portland, Oregon
-Scanned archival documents to digital database using Kofax imaging software and SharePoint web platform. Improved efficiency of scanning and data entry process. Compiled daily production statistics. Trained and supervised incoming team member in all aspects of job.
+Client:  PGE.  Scanned archival documents to digital database using Kofax imaging software and SharePoint web platform. Improved efficiency of scanning and data entry process. Compiled daily production statistics. Trained and supervised incoming team member in all aspects of job.
 
 Field Service Representative
 Ricoh
